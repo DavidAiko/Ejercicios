@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ejercicio3 {
+public class CalculadoraIMC {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String respuesta;
