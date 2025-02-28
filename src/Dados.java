@@ -1,5 +1,5 @@
 import java.util.Random;
-    public class Main {
+    public class Dados {
         public static void main(String[] args) {
             int max = 10;
             int min = 1;
