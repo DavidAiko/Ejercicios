@@ -1,6 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
-public class Main {
+public class Adivinanza {
     public static void main(String[] args) {
         int max = 50;
         int min = 1;
